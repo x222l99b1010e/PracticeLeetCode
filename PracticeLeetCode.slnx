@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ConsoleApp1/recursiveFunctionTest.csproj" Id="f80beaaf-74f2-43ff-8c34-199de60e701e" />
+  <Project Path="PalindromeNumber/PalindromeNumber.csproj" Id="89324092-99ef-45ac-bd0b-9e38eba00179" />
+  <Project Path="PracticeLeetCode/TwoSum.csproj" />
+</Solution>
